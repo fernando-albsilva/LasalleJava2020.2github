@@ -2,7 +2,7 @@
 public class Pedido {
 	
 	private String comprador;
-	private static double valorTotal;
+	private double valorTotal;
 	
 	public Pedido(String comprador) {
 		this.comprador=comprador;
