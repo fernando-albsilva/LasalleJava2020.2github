@@ -40,7 +40,7 @@
 
 ## Tela Consultar Tratamento
 
-![Tela_Consultar_Paciente](https://github.com/fernando-albsilva/LasalleJava2020.2github/blob/master/ProtitipoTela/TelaConsultarTratamento.png) 
+![Tela_Consultar_Paciente](https://github.com/fernando-albsilva/LasalleJava2020.2github/blob/master/ProtitipoTela/TelaBuscarTratamento.png) 
 
 ## Tela Cadastrar Consulta
 
@@ -56,4 +56,4 @@
 
 ## Tela Consultar Consulta
 
-![Tela_Consultar_Paciente](https://github.com/fernando-albsilva/LasalleJava2020.2github/blob/master/ProtitipoTela/TelaConsultarConsulta.png) 
+![Tela_Consultar_Paciente](https://github.com/fernando-albsilva/LasalleJava2020.2github/blob/master/ProtitipoTela/TelaBuscarConsulta.png) 
