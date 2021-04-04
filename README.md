@@ -14,10 +14,14 @@
 
 ![Tela_Cadastrar_Paciente](https://github.com/fernando-albsilva/LasalleJava2020.2github/blob/master/ProtitipoTela/TelaCadastrarPaciente.png)  
 
-## Tela Alterar PAciente
+## Tela Alterar Paciente
 
 ![Tela_Alterar_Paciente](https://github.com/fernando-albsilva/LasalleJava2020.2github/blob/master/ProtitipoTela/TelaAlterarPaciente.png)  
 
 ## Tela Excluir Paciente
 
 ![Tela_Excluir_Paciente](https://github.com/fernando-albsilva/LasalleJava2020.2github/blob/master/ProtitipoTela/TelaExcluirPaciente.png) 
+
+## Tela Consultar Paciente
+
+![Tela_Consultar_Paciente](https://github.com/fernando-albsilva/LasalleJava2020.2github/blob/master/ProtitipoTela/TelaConsultarPaciente.png) 
