@@ -12,7 +12,7 @@
 
 ## Tela Cadastrar Paciente
 
-![Tela_Cadastrar_Paciente](https://github.com/fernando-albsilva/LasalleJava2020.2github/blob/master/ProtitipoTela/TelaCadastrarPaciente.png)  
+![Tela_Cadastrar_Paciente](https://github.com/fernando-albsilva/LasalleJava2020.2github/blob/master/ProtitipoTela/TelaCadastraPaciente.png)  
 
 ## Tela Alterar Paciente
 
@@ -24,4 +24,4 @@
 
 ## Tela Consultar Paciente
 
-![Tela_Consultar_Paciente](https://github.com/fernando-albsilva/LasalleJava2020.2github/blob/master/ProtitipoTela/TelaConsultarPaciente.png) 
+![Tela_Consultar_Paciente](https://github.com/fernando-albsilva/LasalleJava2020.2github/blob/master/ProtitipoTela/TelaConsultaPaciente.png) 
