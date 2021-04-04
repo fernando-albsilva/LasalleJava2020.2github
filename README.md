@@ -25,3 +25,35 @@
 ## Tela Consultar Paciente
 
 ![Tela_Consultar_Paciente](https://github.com/fernando-albsilva/LasalleJava2020.2github/blob/master/ProtitipoTela/TelaConsultarPaciente.png) 
+
+## Tela Cadastrar Tratamento
+
+![Tela_Cadastrar_Paciente](https://github.com/fernando-albsilva/LasalleJava2020.2github/blob/master/ProtitipoTela/TelaCadastrarTratamento.png)  
+
+## Tela Alterar Tratamento
+
+![Tela_Alterar_Paciente](https://github.com/fernando-albsilva/LasalleJava2020.2github/blob/master/ProtitipoTela/TelaAlterarTratamento.png)  
+
+## Tela Excluir Tratamento
+
+![Tela_Excluir_Paciente](https://github.com/fernando-albsilva/LasalleJava2020.2github/blob/master/ProtitipoTela/TelaExcluirTratamento.png) 
+
+## Tela Consultar Tratamento
+
+![Tela_Consultar_Paciente](https://github.com/fernando-albsilva/LasalleJava2020.2github/blob/master/ProtitipoTela/TelaConsultarTratamento.png) 
+
+## Tela Cadastrar Consulta
+
+![Tela_Cadastrar_Paciente](https://github.com/fernando-albsilva/LasalleJava2020.2github/blob/master/ProtitipoTela/TelaCadastrarConsulta.png)  
+
+## Tela Alterar Consulta
+
+![Tela_Alterar_Paciente](https://github.com/fernando-albsilva/LasalleJava2020.2github/blob/master/ProtitipoTela/TelaAlterarConsulta.png)  
+
+## Tela Excluir Consulta
+
+![Tela_Excluir_Paciente](https://github.com/fernando-albsilva/LasalleJava2020.2github/blob/master/ProtitipoTela/TelaExcluirConsulta.png) 
+
+## Tela Consultar Consulta
+
+![Tela_Consultar_Paciente](https://github.com/fernando-albsilva/LasalleJava2020.2github/blob/master/ProtitipoTela/TelaConsultarConsulta.png) 
